@@ -15,3 +15,5 @@ Why shouldn't it work?
   => true
   >> Object.fucking.goddamn.new
   => #<Object:0x101486ed8>
+  >> Object.fucking(:work).goddammit
+  => Object
